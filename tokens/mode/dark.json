@@ -93,6 +93,10 @@
       "default": {
         "value": "{color.neutral.500}",
         "type": "color"
+      },
+      "error": {
+        "value": "{color.red.400}",
+        "type": "color"
       }
     },
     "default": {
