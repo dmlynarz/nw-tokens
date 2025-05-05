@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "_global/tokens",
+    "breakpoint/mobile",
+    "breakpoint/tablet",
+    "breakpoint/desktop",
+    "semantic",
+    "mode/light",
+    "mode/dark"
+  ]
+}
